@@ -137,4 +137,4 @@ Lakshmidhar N
 
 ---
 
-*This project is intended for educational purposes and uses synthetic chat data.*4
+*This project is intended for educational purposes and uses synthetic chat data.*
