@@ -1,3 +1,4 @@
+
 # GroupDNA – WhatsApp Group Chat Analytics
 
 ## Project Overview
@@ -58,14 +59,14 @@ Assigns personality archetypes to participants using quantitative rules based on
 
 The project brief defines eight archetypes:
 
-- The Spammer – Frequently sends consecutive messages.
-- The Group Mom – Uses caring and supportive keywords.
-- The Night Owl – Is highly active late at night.
-- The Storyteller – Sends longer messages.
-- The Drama Queen – Frequently uses all-capital messages or multiple exclamation marks.
-- The Ghost – Remains inactive on many days.
-- The Comedian – Frequently uses laughter-related words.
-- The Question Master – Frequently sends messages ending with question marks.
+- **The Spammer** – Frequently sends consecutive messages.
+- **The Group Mom** – Uses caring and supportive keywords.
+- **The Night Owl** – Is highly active late at night.
+- **The Storyteller** – Sends longer messages.
+- **The Drama Queen** – Frequently uses all-capital messages or multiple exclamation marks.
+- **The Ghost** – Remains inactive on many days.
+- **The Comedian** – Frequently uses laughter-related words.
+- **The Question Master** – Frequently sends messages ending with question marks.
 
 Each participant is assigned one primary archetype based on the highest calculated score.
 
@@ -75,14 +76,14 @@ Combines the analysis into a structured, formatted report containing group stati
 
 ## Project Files
 
-- GroupDNA.ipynb – Jupyter Notebook containing the project implementation and analysis.
-- hostel_bois.txt – Synthetic WhatsApp group chat dataset.
-- Final Report.txt – Final minor project report.
+- `GroupDNA.ipynb` – Jupyter Notebook containing the project implementation and analysis.
+- `hostel_bois.txt` – Synthetic WhatsApp group chat dataset.
+- `Final Report.txt` – Final minor project report.
 
 ## How to Run the Project
 
-1. Open the GroupDNA.ipynb notebook in Google Colab or Jupyter Notebook.
-2. Upload the hostel_bois.txt dataset to the notebook environment.
+1. Open the `GroupDNA.ipynb` notebook in Google Colab or Jupyter Notebook.
+2. Upload the `hostel_bois.txt` dataset to the notebook environment.
 3. Ensure the dataset filename and file path match those specified in the notebook code.
 4. Run the notebook cells in sequence.
 5. Review the generated analytics report and results.
@@ -100,7 +101,7 @@ The project is designed to demonstrate analytical problem-solving using Python f
 - NumPy is used to create and analyze the hourly activity matrix.
 - Python dictionaries are used for counting and storing statistics.
 - Standard Python string methods are used for message parsing and word analysis.
-- The datetime module is used for timestamp parsing and time calculations.
+- The `datetime` module is used for timestamp parsing and time calculations.
 - Pandas, Matplotlib, Seaborn, Plotly, regular expressions, and pre-built WhatsApp chat analyzer libraries are not permitted under the project brief.
 
 ## Expected Outcomes
@@ -125,15 +126,15 @@ The project is designed to demonstrate analytical problem-solving using Python f
 
 ## Author
 
-Lakshmidhar N
+**Lakshmidhar N**
 
 ## Project Information
 
-- Project Name: GroupDNA – WhatsApp Group Chat Analytics
-- Project Type: Minor Project
-- Domain: Data Analytics
-- Dataset: Synthetic WhatsApp-style group chat data
-- Purpose: Academic learning and analysis of group communication patterns
+- **Project Name:** GroupDNA – WhatsApp Group Chat Analytics
+- **Project Type:** Minor Project
+- **Domain:** Data Analytics
+- **Dataset:** Synthetic WhatsApp-style group chat data
+- **Purpose:** Academic learning and analysis of group communication patterns
 
 ---
 
