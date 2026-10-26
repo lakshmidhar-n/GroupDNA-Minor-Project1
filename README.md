@@ -24,7 +24,7 @@ The project uses Python fundamentals and NumPy to transform a synthetic WhatsApp
 - NumPy
 - Jupyter Notebook
 - Google Colab
-- Python fundamentals: lists, dictionaries, sets, tuples, loops, conditionals, and functions
+- Python fundamentals: lists, dictionaries, tuples, loops, conditionals, and functions
 - Datetime module for timestamp parsing and time calculations
 
 ## Core Project Features
